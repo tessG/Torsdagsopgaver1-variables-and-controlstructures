@@ -1,6 +1,4 @@
 ### Exercises with Variables and control structures
-Exercises for CPHBusiness self study tasks, 1st semester, java, week 37
-
 
 Velkommen til den første torsdag med exercises. 
 
